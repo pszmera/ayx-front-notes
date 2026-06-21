@@ -1,2 +1,14 @@
 # ayx-front-notes
-HTML page archive and documentation
+
+HTML 页面维护仓库
+
+本仓库记录页面发布结果，页面文件会按任务追加保存。
+
+## 仓库内容
+
+- 页面文件保存在根目录
+- 后续任务会继续追加新的 HTML 文件
+
+## 内容说明
+
+仓库中的 HTML 文件为主要内容，README 仅保留简要说明。
